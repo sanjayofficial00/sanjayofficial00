@@ -1,3 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1Sanjay-Kumar1&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay Kumar" /> </p>
+
+![MasterHead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)          
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Sanjay+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 # 💫 About Me:
 🔭 I’m currently working on Python Full Stack Developer<br>👯 I’m looking to collaborate on Dynamic Website Development<br>🤝 I’m looking for help with  { Web Scraping } On my project<br>🌱 I’m currently learning { ReactJS } { Celery }<br>💬 Ask me about { Python } { Django }<br>⚡ Fun fact I’m currently working on MySkill
 
